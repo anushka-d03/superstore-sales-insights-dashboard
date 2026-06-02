@@ -81,7 +81,7 @@ superstore-sales-insights-dashboard/
 
 ## Screenshot
 
-_Add your dashboard screenshot here._
+![Dashboard Screenshot](screenshots/sales_dashboard.png)
 
 ## Author
 
